@@ -1,0 +1,26 @@
+{
+  "name": "doorbot-pi",
+  "version": "1.0.0",
+  "description": "Project Doorbot is an open source access control system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jweakley/doorbot-pi.git"
+  },
+  "author": "jweakley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jweakley/doorbot-pi/issues"
+  },
+  "homepage": "https://github.com/jweakley/doorbot-pi",
+  "dependencies": {
+    "johnny-five": "^0.8.14",
+    "pi-gpio": "0.0.6",
+    "raspi-io": "^1.0.2",
+    "serialport": "^1.4.6",
+    "temporal": "^0.3.8"
+  }
+}
