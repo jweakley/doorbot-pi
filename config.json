@@ -1,0 +1,6 @@
+{
+  "doorGPIOPin": "7",
+  "doorTimeDelay": "5000",
+  "host": "http://immense-sea-8168.herokuapp.com",
+  "apiKey": "7de07a2c02d9f59b14d95f4ff5c5d789"
+}
